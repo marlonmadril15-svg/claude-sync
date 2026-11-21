@@ -1,0 +1,1 @@
+{ "name": "panel-agentes", "version": "0.1.0", "description": "Panel en vivo con lo que gasta cada agente: modelo, tokens y pasos", "types": "./types/index.d.ts" }

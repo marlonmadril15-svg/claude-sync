@@ -1,0 +1,1 @@
+{ "name": "vigilante", "version": "0.1.0", "description": "Avisa cuando la caché de la conversación se enfría y el siguiente mensaje releerá todo sin caché" }

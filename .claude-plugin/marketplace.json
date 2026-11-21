@@ -1,0 +1,9 @@
+{
+  "name": "mis-mods",
+  "owner": { "name": "marlo" },
+  "plugins": [
+    { "name": "portero", "source": "./mods/portero" },
+    { "name": "vigilante", "source": "./mods/vigilante" },
+    { "name": "panel-agentes", "source": "./mods/panel-agentes" }
+  ]
+}
